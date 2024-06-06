@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=radical)](https://github.com/thalyssa/github-readme-stats)
+[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=material-palenight)](https://github.com/thalyssa/github-readme-stats)
+![Top Langs](https://github-readme-stats-nu-six-78.vercel.app/api/top-langs/?username=thalyssa&layout=compact&theme=material-palenight&hide_progress=true)
+
 
 ### Languages and libraries
 
@@ -8,7 +10,7 @@
           
 ### Learning | Interested in...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
 
 ### Tools
 
