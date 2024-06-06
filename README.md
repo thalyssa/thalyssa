@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=material-palenight)](https://github.com/thalyssa/github-readme-stats)
-![Top Langs](https://github-readme-stats-nu-six-78.vercel.app/api/top-langs/?username=thalyssa&layout=compact&theme=material-palenight&hide_progress=true)
+[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=holi)](https://github.com/thalyssa/github-readme-stats)
+![Top Langs](https://github-readme-stats-nu-six-78.vercel.app/api/top-langs/?username=thalyssa&layout=compact&theme=holi&hide_progress=true)
 
 
 ### Languages and libraries
