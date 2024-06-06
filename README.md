@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa)](https://github.com/thalyssa/github-readme-stats)
+[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=radical)](https://github.com/thalyssa/github-readme-stats)
 
 ### Languages and libraries
 
