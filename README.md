@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-[![Thalyssa's GitHub stats](https://github-readme-stats-nu-six-78.vercel.app/api?username=thalyssa&show_icons=true&theme=holi)](https://github.com/thalyssa/github-readme-stats)
-![Top Langs](https://github-readme-stats-nu-six-78.vercel.app/api/top-langs/?username=thalyssa&layout=compact&theme=holi&hide_progress=true)
-
-
 ### Languages and libraries
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" width="60" height="60"/>
