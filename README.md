@@ -1,22 +1,14 @@
-## Hi there 👋
+Hi there! I’m Thalyssa, a computer scientist based in Brazil, focused on back-end development. I’m looking for junior opportunities in API and back-end development, with a strong interest in data analysis and visual novel development.
 
-### Languages and libraries
+I primarily work with Python (Django) and Java.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" width="60" height="60"/>
-          
-### Learning | Interested in...
+Some projects I’ve worked on include…
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+- [Web crawler - ALESC](https://github.com/thalyssa/crawler-alesc/tree/master) - Dockerized web crawler to fetch, process and store event data from the website of the Legislative Assembly of the State of Santa Catarina, ensuring reproducible and isolated execution environments (Python – BeautifulSoup, Docker)
 
-### Tools
+- [Budget Tracking](https://github.com/thalyssa/ControleFinaceiroDjango) - Budget tracking web application designed and developed with Django for an introductory web development course I taught, serving as a reference implementation for beginners and emphasizing CRUD architecture (HTML, CSS, JavaScript).
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60"/> 
-
-
-
-### OS
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60"/>
+- [PocketAnalysisLab](https://github.com/thalyssa/PocketAnalysisLab) - Content analysis web service built in Python, integrating the ChatGPT API to process and analyze text data, with cloud deployment and public access via Streamlit Cloud (final course project).
           
           
 
